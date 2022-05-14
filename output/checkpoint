@@ -1,0 +1,4 @@
+model_checkpoint_path: "model-last"
+all_model_checkpoint_paths: "loss\\model-best"
+all_model_checkpoint_paths: "sharpe\\model-best"
+all_model_checkpoint_paths: "model-last"
